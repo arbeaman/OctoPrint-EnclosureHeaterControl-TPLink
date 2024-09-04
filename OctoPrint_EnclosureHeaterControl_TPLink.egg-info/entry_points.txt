@@ -1,0 +1,3 @@
+[octoprint.plugin]
+enclosureheatercontrol_tplink = octoprint_enclosureheatercontrol_tplink
+
