@@ -4,7 +4,7 @@ Adds TPLink Smart Plug support to OctoPrint-EnclosureHeaterControl as a sub-plug
 ## Setup
 - Install the plugin using Plugin Manager from Settings
 - Configure this plugin
-- Select this plugin as a Switching and/or Sensing method in [Enclosure Heater Control](https://github.com/arbeaman/OctoPrint-EnclosureHeaterControl)
+- Select this plugin as a Switching and Sensing method in [Enclosure Heater Control](https://github.com/arbeaman/OctoPrint-EnclosureHeaterControl)
 
 ## Support
 Help can be found at the [OctoPrint Community Forums](https://community.octoprint.org)
